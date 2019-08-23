@@ -1,0 +1,15 @@
+Please download python 3.4 before running the .py files.
+
+
+
+
+
+You mainly need to run the stu.py file in Python Command Line to do different task of viewing, adding, searching, removing a student details.
+
+
+
+Software Package Requirements:
+
+
+
+We use python 3.4 for this project.
